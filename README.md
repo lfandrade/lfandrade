@@ -7,8 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/lfandrade">
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfandrade&show_icons=true&theme=transparent/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfandrade&show_icons=true&theme=graywhite &include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfandrade&layout=compact&langs_count=7&theme=graywhite "/>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfandrade&show_icons=true&bg_color=00000000)
+
 </div>
